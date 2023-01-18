@@ -17,4 +17,4 @@ public class MyController {
     public Book addBook(@RequestBody Book book) {
 		return new Book(2, "Name2", "Title2");
     }
-}
+}	
